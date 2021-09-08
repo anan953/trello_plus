@@ -1,11 +1,11 @@
-import "./App.css";
+import "./App.scss";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>Hoang Van Hau </p>
-      </header>
+    <div className="trello-advance">
+      <nav className="nav header">header</nav>
+      <nav className="nav header-board">header-board</nav>
+      <div className="board-column">board-column</div>
     </div>
   );
 }
