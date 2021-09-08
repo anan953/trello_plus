@@ -1,4 +1,4 @@
-# Trello and podomoro
+# Trello and pomofocus
 
 # Getting Started with Create React App
 
